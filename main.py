@@ -12,7 +12,7 @@ class TimeTracking:
     def calculate_duration(self):
         # Реализация вычисления времени пребывания
         pass
-
+md md cmd c m dmcdc
 class Billing:
     def __init__(self, base_rate, discounts):
         self.base_rate = base_rate
